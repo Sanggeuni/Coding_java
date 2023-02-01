@@ -3,7 +3,8 @@ package Data_Structure;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class Code {
+/** 10진수 48일 때, 문자는 '0'이므로 문자를 숫자로 변환할 때는 -48 or - '0'을 해줘야한다.*/
+public class Code1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
