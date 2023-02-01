@@ -17,6 +17,7 @@ public class Code1 {
 			sum += cNum[i] - '0';
 		}
 		
+		
 		System.out.println(sum);
 
 	}
